@@ -1,1 +1,1 @@
-print a file and it will be in /tmp directory when run script
+Create a symbolic link to /bin/ls and should be created in cwd
