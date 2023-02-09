@@ -1,1 +1,1 @@
-Create a script that creates a directory in a directory
+Delete the directory in directory
