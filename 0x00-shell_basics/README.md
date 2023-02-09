@@ -1,1 +1,1 @@
-script to delete all files in current working directory that end with~
+creates the directories in current directory
