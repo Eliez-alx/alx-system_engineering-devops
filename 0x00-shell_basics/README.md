@@ -1,1 +1,1 @@
-copy all HTML files from current to parent working directory but only files not exist or newer than version in parent
+Create symbolic link to /bin/ls, named __ls__. it should be created in current
