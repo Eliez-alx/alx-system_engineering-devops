@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls and should be created in cwd
+copy all HTML files from current to parent working directory but only files not exist or newer than version in parent
