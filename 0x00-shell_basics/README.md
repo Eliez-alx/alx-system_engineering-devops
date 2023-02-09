@@ -1,1 +1,1 @@
-command that lists all the files and directories of the current directory, separated by,
+Create a magic file with command file to detect School data files always contain the string SCHOOL at offset 0
