@@ -1,1 +1,1 @@
-Delete the directory in directory
+delete the file in directory
